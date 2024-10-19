@@ -127,7 +127,8 @@
         "platforms": ["iOS", "Android"],
         "Japan-release-date": "2016-12-15",
         "USA-release-date": "2016-12-15",
-        "USA-boxart": "images/SuperMario Run.png"
+        "USA-boxart": "images/SuperMario Run.png",
+        "Japan-boxart": "images/SuperMario Run.png"
       },
       {
         "title": "Super Mario Odyssey",
@@ -143,7 +144,7 @@
         "Japan-release-date": "2019-06-28",
         "USA-release-date": "2019-06-28",
         "USA-boxart": "images/SuperMario Maker2 US.png",
-        "Japan-boxart": "images/SuperMario2 JP.png"
+        "Japan-boxart": "images/SuperMario Maker2 JP.png"
       },
       {
         "title": "Super Mario 3D All-Stars",
@@ -238,7 +239,8 @@
         "platforms": ["iOS", "Android"],
         "Japan-release-date": "2019-09-25",
         "USA-release-date": "2019-09-25",
-        "USA-boxart": "images/MarioKart Tour US.png"
+        "USA-boxart": "images/MarioKart Tour US.png",
+        "Japan-boxart": "images/MarioKart Tour US.png"
       },
       {
         "title": "Mario Party",
@@ -310,7 +312,7 @@
         "Japan-release-date": "2007-11-08",
         "USA-release-date": "2007-11-19",
         "USA-boxart": "images/MarioParty DS US.png",
-        "Japan-boxart": "images/MarioParty DC JP.png"
+        "Japan-boxart": "images/MarioParty DS JP.png"
       },
       {
         "title": "Mario Party 9",
@@ -334,7 +336,7 @@
         "Japan-release-date": "2018-10-05",
         "USA-release-date": "2018-10-05",
         "USA-boxart": "images/SuperMarioParty US.png",
-        "Japan-boxart": "images/SuperMarionParty JP.png"
+        "Japan-boxart": "images/SuperMarioParty JP.png"
       },
       {
         "title": "Mario Party Superstars",

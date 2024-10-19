@@ -10,6 +10,20 @@
     box-sizing: border-box;  
 }
 
+#subdiv {
+    margin: 5px;
+    border: 2px solid red;
+    background-color: white;
+}
+
+#subdiv p {
+    color:#141414;
+}
+
+#subdiv img {
+    max-height:10%;
+}
+
 img {
     height: 20vw;       
     width: 20vw;           
